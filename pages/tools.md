@@ -14,7 +14,7 @@ Do you use [AutoReviewComments - Pro-forma comments for SE](https://stackapps.co
 1. Copy the URL for the site you want
   * [stackoverflow.com](/comments/stackoverflow.com.jsonp)
   * [meta.stackoverflow.com](/comments/meta.stackoverflow.com.jsonp)
-  * [musicfans.stackoverflow.com](/comments/musicfans.stackexchange.com.jsonp)
+  * [musicfans.stackexchange.com](/comments/musicfans.stackexchange.com.jsonp)
 2. Open the Auto Comments dialog and click "remote" at the bottom.
 3. Paste in the url, check "auto-get", and click save.
 
