@@ -102,8 +102,8 @@
     },
     {
         type: 'answer',
-        title: 'Non English answer',
-        body: 'Please write your answer in English, as [$SITENAME$ is an English site.](//meta.stackexchange.com/q/13676)'
+        title: 'Non English usage',
+        body: 'Please write your post in English, since [$SITENAME$ is an English site.](//stackoverflow.com/help/non-english-questions)'
     },
     {
         type: 'answer',
